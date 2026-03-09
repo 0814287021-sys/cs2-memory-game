@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(88, 87, 87);
+    color:white;
+}
+
+
+.card{
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 300ms;
+    
+}
